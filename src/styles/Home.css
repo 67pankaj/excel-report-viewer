@@ -1,0 +1,10 @@
+.file-upload-label {
+  margin: 16px auto;
+  cursor: pointer;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
